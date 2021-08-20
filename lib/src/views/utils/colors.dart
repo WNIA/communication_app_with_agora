@@ -14,4 +14,13 @@ Map<int, Color> colorMap = {
   900: Color.fromRGBO(147, 205, 72, 1),
 };
 
+const Color kThemeColor = const Color(0xFF2E3192);
+const Color kWhiteColor = const Color(0xFFFFFFFF);
+const Color kThemeGreyColor = const Color(0xFF828FAB);
+const Color kPrimeColor = const Color(0xFF3B53AD);
+const Color logInTColor = const Color(0xFF0F1E2D);
+const Color kPeachColor = const Color(0xFFFF9B8B);
+const Color kGreenColor = const Color(0xFF289061);
+const Color kBlackColor = const Color(0xFF000000);
+const Color kOrangeColor = const Color(0xFFFF5307);
 
